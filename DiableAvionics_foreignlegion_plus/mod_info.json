@@ -1,0 +1,19 @@
+{
+	# ORIGINAL DESCRIPTION
+	#"name":"恶航皮肤-外籍军团[DiableAddon-FOREIGN LEGION]",
+    #"author":"author:Tartiflette,circumsoldier, 和莱",
+    #"description":"一个锡罕风格的皮肤包。\n一次只能选用一个皮肤包！将你的恶航舰队替换成不同的风格！\n感谢这些人的帮助：Fax、老咪、lili、AnyIDElse、Nia\n\nA XHAN THEME SKIN PACK.\nONLY ACTIVATE ONE SKIN PACK AT A TIME! Changes Diable Avionics ships' colors for a different theme.\nThank there help：Fax、老咪、lili、AnyIDElse、Nia",
+    
+    "id":"diableavionics_ForeignLegion_Station",
+    "name":"Diable Addon - FOREIGN LEGION S",
+    "author":"Peplat, He Lai, Sutopia",
+    "version":"1.0",
+    "description":"A XHAN THEME SKIN PACK.\n\nThank for the help：Fax、Lao Mimi、lili、AnyIDElse、Nia\n\nONLY ACTIVATE ONE SKIN PACK AT A TIME! Changes Diable Avionics ships' colors for a different theme.",
+    "gameVersion": "0.95a-RC15",
+    "dependencies": [
+        {
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+        },
+    ],
+}

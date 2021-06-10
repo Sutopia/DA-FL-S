@@ -1,0 +1,8 @@
+You can make your own skin pack by simply replacing the sprites in the graphic/da folder with your own, and renaming both the "id" and the "name" in mod_info.json. 
+
+Please note that:
+
+You MUST respect the template
+"Diable Addon -" + name of your pack to properly overwrite the default skins.
+
+You don't have to replace every single sprite, the others will default to the original ones.
